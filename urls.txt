@@ -1,0 +1,6 @@
+http://news.yahoo.com/rss/
+http://rss.cnn.com/rss/edition.rss
+http://feeds.pcworld.com/pcworld/businesscenter/linuxline/
+http://feeds.pcworld.com/pcworld/blogs/answer_line
+http://feeds.pcworld.com/pcworld/blogs/digital_focus
+http://feeds.pcworld.com/pcworld/businesscenter/network/

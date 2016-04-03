@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<rss version="2.0">
+  <channel>
+    <title>This is a channel</title>
+    <link>http://example.com/</link>
+    <description>My description channel</description>
+
+    <item>
+	 <title>Ball basket football tennis golf bike car toy ski facebook snoboard system computer</title>
+	 <link>http://example.com/2002/09/01</link>
+	<description>title1</description>
+    </item>
+  </channel>
+</rss>
+

@@ -1,0 +1,7 @@
+1 0.11119621066822401 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\all.xml xml
+2 2.2659549124801655 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\creator.xml xml
+3 0.8374248379636994 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\description.xml xml
+4 2.2659549124801655 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\guid.xml xml
+5 2.921140809439301 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\link.xml xml
+6 2.128893629162867 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\title.xml xml
+7 0.11119621066822401 C:\Users\Sun\Documents\NetBeansProjects\hy463\top_words\title_desc.xml xml
